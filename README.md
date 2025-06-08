@@ -164,9 +164,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [Vishnu Vardhan Velpula] vishnuvardhanvelpula369@gmail.com
+Name - [Vishnu Vardhan Velpula] vishnuvardhanvelpula369@gmail.com
 
-Project Link: [https://github.com/yourusername/ev-evolution]([https://github.com/yourusername/ev-evolution](https://github.com/VishnuVardhanVelpula/evWebsite))
+Project Link: https://github.com/VishnuVardhanVelpula/evWebsite
 
 ## 🙏 Acknowledgments
 
